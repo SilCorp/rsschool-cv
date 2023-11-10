@@ -1,18 +1,21 @@
 # Alexander Silchenko
 
-E-mail: alex.silcorp@gmail.com
-LinkedIn: linkedin.com/in/alexander-silchenko/
+---
+
+## Contacts
+* **E-mail:** _[alex.silcorp@gmail.com](mailto:alex.silcorp@gmail.com)_
+* **LinkedIn:** _[Alexander Silchenko](https://www.linkedin.com/in/alexander-silchenko/)_
+* **Github:** _[SilCorp](https://github.com/SilCorp)_
+
+## About Me
 
 An accomplished individual with strong knowledge in web development and 3+ years of experience. Worked on projects in such domains as: E-commerce, FinTech, MedTech. Clear understanding of web development processes. Implementing cross-platform application solutions.
 
 ## Skills
-Languages: JavaScript, Typescript, HTML, CSS, SCSS
-
-Libraries: React JS, React Router, Redux, Material UI
-
-Testing: Jest, React Testing Library
-
-Tools: Git, Docker
+* **Languages:** _JavaScript, Typescript, HTML, CSS, SCSS_
+* **Libraries:** _React JS, React Router, Redux, Material UI_
+* **Testing:** _Jest, React Testing Library_
+* **Tools:** _Git, Docker_
 
 ## Work History
 
@@ -44,7 +47,7 @@ Tools: Git, Docker
 
 ### _Bachelor's Degree: Mathematics And Technologies of Programming_
 
-**_Francisk Skorina Gomel State University - Gomel, Belarus_**
+**_Francisk Skorina Gomel State University – Gomel, Belarus_**
 
 _2015-09 – 2019-06_
 
