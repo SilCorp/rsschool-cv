@@ -1,7 +1,5 @@
 # Alexander Silchenko
 
----
-
 ## Contacts
 * **E-mail:** _[alex.silcorp@gmail.com](mailto:alex.silcorp@gmail.com)_
 * **LinkedIn:** _[Alexander Silchenko](https://www.linkedin.com/in/alexander-silchenko/)_
