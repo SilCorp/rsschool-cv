@@ -1,1 +1,1 @@
-# rsschool-cv
+https://silcorp.github.io/rsschool-cv/cv
